@@ -1,0 +1,24 @@
+
+***************Receipt***************
+Card: VISA
+Date: 2023-04-16, Time: 11:23:30
+Coffee:Cappuccino, Price: 2.50
+**************************************
+
+***************Receipt***************
+Paid with Cash, Date: 2023-04-16, Time: 11:25:31
+Coffee: Cappuccino, Price: 2.50 
+Cash tendered 4.00 , Change given: 1.50
+**************************************
+
+***************Receipt***************
+Card: VISA
+Date: 2023-04-16, Time: 11:27:12
+Coffee:Cappuccino, Price: 2.50
+**************************************
+
+***************Receipt***************
+Card: VISA
+Date: 2023-04-16, Time: 11:32:26
+Coffee:Cappuccino, Price: 2.50
+**************************************
